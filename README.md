@@ -4,3 +4,6 @@ Frank McCown
 Josh Cruz
 Caleb Williams
 Zack Wilson
+Jace Nicholson
+Herson Alfaro
+Hunter Kennon
