@@ -19,3 +19,7 @@ Brent Ward
 Aaron Zimmerman
 Luc Sutherland
 Michael Starks
+Mitch Maynard
+Isacar Racine
+Caleb Hopper
+Stephen Emerson
