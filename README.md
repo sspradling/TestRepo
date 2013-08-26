@@ -9,3 +9,13 @@ Herson Alfaro
 Hunter Kennon
 Travis Lanier
 Savannah Pendergrass
+Aaron Jimenez
+Maria Jose Midence
+Barrett Montgomery
+Diego Castillo
+James Sutherland
+Thane Durey
+Brent Ward
+Aaron Zimmerman
+Luc Sutherland
+Michael Starks
