@@ -1,26 +1,29 @@
 This is the README.md file. Please put your name below:
 
 Frank McCown
-Josh Cruz
-Caleb Williams
-Zack Wilson
-Jace Nicholson
+
 Herson Alfaro
+Josh Cruz
+Thane Durey
+Stephen Emerson
+Diego Castillo
+Caleb Hopper
+Aaron Jimenez
 Hunter Kennon
 Travis Lanier
-Savannah Pendergrass
-Aaron Jimenez
+Nathan Martinez
+Mitch Maynard
 Maria Jose Midence
 Barrett Montgomery
-Diego Castillo
-James Sutherland
-Thane Durey
-Brent Ward
-Aaron Zimmerman
-Luc Sutherland
-Michael Starks
-Mitch Maynard
+Jace Nicholson
+Savannah Pendergrass
 Isacar Racine
-Caleb Hopper
-Stephen Emerson
+Michael Starks
+James Sutherland
+Luc Sutherland
+Brent Ward
+Caleb Williams
+Zack Wilson
+Aaron Zimmerman
+
 this is a test
