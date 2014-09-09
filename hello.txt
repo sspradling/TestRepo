@@ -1,2 +1,3 @@
+New first line.
 Hello, GitHub!
 This is a test.
