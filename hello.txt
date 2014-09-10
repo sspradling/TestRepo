@@ -1,4 +1,4 @@
 New first line.
-Hello, GitHub!
+Goodbye, GitHub!
 This is a test.
 And another.
